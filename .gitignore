@@ -26,3 +26,4 @@ replay_pid*
 /generated/prisma
 
 .env
+/node_modules
